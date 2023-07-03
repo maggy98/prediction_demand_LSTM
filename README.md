@@ -39,7 +39,7 @@ y line - last weeks
 ![image](https://user-images.githubusercontent.com/62389300/224988404-09fd43d6-d577-4c77-81cc-2055c0cc3fb2.png)
 ![image](https://user-images.githubusercontent.com/62389300/224988438-ee6f276a-921c-46a5-8d03-6aca53ee18e3.png)
 
-# RSME
+# RMSE
 
 ![image](https://user-images.githubusercontent.com/62389300/224989799-a3c042ed-7dce-49cf-905d-879e7551d529.png)
 
